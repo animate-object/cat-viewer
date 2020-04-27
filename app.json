@@ -1,0 +1,17 @@
+{
+  "name": "cat-viewer",
+  "displayName": "cat-viewer",
+  "expo": {
+    "name": "cat-viewer",
+    "slug": "cat-viewer",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
